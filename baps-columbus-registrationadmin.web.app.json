@@ -1,0 +1,5610 @@
+[
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/2VdmoxqT5SgfioJzkHz0",
+    "fields": {
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:35:52.814Z"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phoneNorm": {
+              "stringValue": "4438199307"
+            },
+            "phone": {
+              "stringValue": "(443) 819-9307"
+            },
+            "email": {
+              "stringValue": ""
+            },
+            "firstName": {
+              "stringValue": "Aayushi"
+            },
+            "lastName": {
+              "stringValue": "Brahmbhatt"
+            }
+          }
+        }
+      },
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Namasya"
+                  },
+                  "lastName": {
+                    "stringValue": "Patil"
+                  },
+                  "gender": {
+                    "stringValue": "F"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "20"
+                        },
+                        "month": {
+                          "stringValue": "06"
+                        },
+                        "year": {
+                          "stringValue": "2026"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": ""
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "registrationId": {
+        "stringValue": "vpatil2@umbc.edu_1794353752430"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "vpatil2@umbc.edu"
+            },
+            "lastName": {
+              "stringValue": "Patil"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "firstName": {
+              "stringValue": "Vinny"
+            },
+            "phone": {
+              "stringValue": "4436308763"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "phoneNorm": {
+              "stringValue": "4436308763"
+            },
+            "zip": {
+              "stringValue": "43040"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "city": {
+              "stringValue": "Marysville "
+            },
+            "address": {
+              "stringValue": "409 Stolte Dr"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-10T23:35:52.908016Z",
+    "updateTime": "2026-11-10T23:35:52.908016Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/6SDPWVcO1uJkkaUhDEX7",
+    "fields": {
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "address": {
+              "stringValue": "96 Shadow Oak Loop"
+            },
+            "firstName": {
+              "stringValue": "Sowmya"
+            },
+            "city": {
+              "stringValue": "Delaware"
+            },
+            "phoneNorm": {
+              "stringValue": "8138418222"
+            },
+            "phone": {
+              "stringValue": "8138418222"
+            },
+            "email": {
+              "stringValue": "sowmyarao0207@gmail.com"
+            },
+            "maritalStatus": {
+              "stringValue": "Other"
+            },
+            "zip": {
+              "stringValue": "43015"
+            },
+            "lastName": {
+              "stringValue": "Rao"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-11T01:18:24.882Z"
+      },
+      "children": {
+        "nullValue": null
+      },
+      "registrationId": {
+        "stringValue": "sowmyarao0207@gmail.com_1794359904481"
+      },
+      "spouse": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-11T01:18:24.942342Z",
+    "updateTime": "2026-11-11T01:18:24.942342Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/77MZWgZRodNYliXLEjEz",
+    "fields": {
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phoneNorm": {
+              "stringValue": "9198193650"
+            },
+            "phone": {
+              "stringValue": "(919) 819-3650"
+            },
+            "firstName": {
+              "stringValue": "Rahi"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "email": {
+              "stringValue": "rahi4963@gmail.com"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T18:19:11.065Z"
+      },
+      "children": {
+        "nullValue": null
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "phone": {
+              "stringValue": "4197885710"
+            },
+            "address": {
+              "stringValue": "1822 Paradise lane"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "email": {
+              "stringValue": "tacoboss02@gmail.com"
+            },
+            "city": {
+              "stringValue": "Findlay"
+            },
+            "firstName": {
+              "stringValue": "Neel"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "phoneNorm": {
+              "stringValue": "4197885710"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "zip": {
+              "stringValue": "45840"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "tacoboss02@gmail.com_1794334750848"
+      }
+    },
+    "createTime": "2026-11-10T18:19:11.215145Z",
+    "updateTime": "2026-11-10T18:19:11.215145Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/7TP32wwTV65w36RuBlV1",
+    "fields": {
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Vandan"
+                  },
+                  "lastName": {
+                    "stringValue": "Patel"
+                  },
+                  "gender": {
+                    "stringValue": "M"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "11"
+                        },
+                        "month": {
+                          "stringValue": "01"
+                        },
+                        "year": {
+                          "stringValue": "2006"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": "vandanrakesh101@gmail.com"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "registrationId": {
+        "stringValue": "jagu.patel3680@gmail.com_1794316861725"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T13:21:02.018Z"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "firstName": {
+              "stringValue": "Rakeshkumar"
+            },
+            "phone": {
+              "stringValue": "(614) 384-1273"
+            },
+            "email": {
+              "stringValue": "rakesh.patel351975@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "6143841273"
+            }
+          }
+        }
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "city": {
+              "stringValue": "Columbus "
+            },
+            "zip": {
+              "stringValue": "43204"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "phone": {
+              "stringValue": "6143841273"
+            },
+            "firstName": {
+              "stringValue": "Jagu"
+            },
+            "email": {
+              "stringValue": "jagu.patel3680@gmail.com"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "phoneNorm": {
+              "stringValue": "6143841273"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "address": {
+              "stringValue": "3566 wilsonwoods dr apt G "
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-10T13:21:02.107065Z",
+    "updateTime": "2026-11-10T13:21:02.107065Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/7fxJu2vFZQRhlruZslPQ",
+    "fields": {
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:57:21.257Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "address": {
+              "stringValue": "102 Shadow Oak Loop"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "phoneNorm": {
+              "stringValue": "5035750371"
+            },
+            "zip": {
+              "stringValue": "43015"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "firstName": {
+              "stringValue": "Pankaj"
+            },
+            "lastName": {
+              "stringValue": "Nahar"
+            },
+            "email": {
+              "stringValue": "pankajnahar@gmail.com"
+            },
+            "city": {
+              "stringValue": "Delaware"
+            },
+            "phone": {
+              "stringValue": "5035750371"
+            },
+            "gender": {
+              "stringValue": "M"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "pankajnahar@gmail.com_1794355040965"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "lastName": {
+              "stringValue": "Nahar"
+            },
+            "email": {
+              "stringValue": ""
+            },
+            "phoneNorm": {
+              "stringValue": "5038605263"
+            },
+            "phone": {
+              "stringValue": "(503) 860-5263"
+            },
+            "firstName": {
+              "stringValue": "Pragati"
+            }
+          }
+        }
+      },
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Siddhant"
+                  },
+                  "lastName": {
+                    "stringValue": "Nahar"
+                  },
+                  "gender": {
+                    "stringValue": "M"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "06"
+                        },
+                        "month": {
+                          "stringValue": "06"
+                        },
+                        "year": {
+                          "stringValue": "2012"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": ""
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "createTime": "2026-11-10T23:57:21.321400Z",
+    "updateTime": "2026-11-10T23:57:21.321400Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/ArZuhaafZadJ1toiCJLz",
+    "fields": {
+      "registrationId": {
+        "stringValue": "priyap4027@gmaill.com_1794348135309"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "phone": {
+              "stringValue": "6142072889"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "city": {
+              "stringValue": "Columbus "
+            },
+            "zip": {
+              "stringValue": "43229"
+            },
+            "phoneNorm": {
+              "stringValue": "6142072889"
+            },
+            "address": {
+              "stringValue": "6314 Busch Blvd "
+            },
+            "email": {
+              "stringValue": "priyap4027@gmaill.com"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "firstName": {
+              "stringValue": "Priya"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            }
+          }
+        }
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "firstName": {
+              "stringValue": "Priya"
+            },
+            "email": {
+              "stringValue": "priyap4027@gmaill.com"
+            },
+            "phone": {
+              "stringValue": "(614) 207-2889"
+            },
+            "lastName": {
+              "stringValue": "Rutvik"
+            },
+            "phoneNorm": {
+              "stringValue": "6142072889"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T22:02:15.541Z"
+      }
+    },
+    "createTime": "2026-11-10T22:02:15.690191Z",
+    "updateTime": "2026-11-10T22:02:15.690191Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/BZL1rmBRti5eSe3EHzKP",
+    "fields": {
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Ghanan"
+                  },
+                  "lastName": {
+                    "stringValue": "Jangid"
+                  },
+                  "gender": {
+                    "stringValue": "M"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "08"
+                        },
+                        "month": {
+                          "stringValue": "04"
+                        },
+                        "year": {
+                          "stringValue": "2022"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": "jjangid002@gmail.com"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "jjangid002@gmail.com"
+            },
+            "firstName": {
+              "stringValue": "Monika"
+            },
+            "phone": {
+              "stringValue": "(614) 550-2483"
+            },
+            "phoneNorm": {
+              "stringValue": "6145502483"
+            },
+            "lastName": {
+              "stringValue": "Jangid"
+            }
+          }
+        }
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "lastName": {
+              "stringValue": "Jangid"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "city": {
+              "stringValue": "Dublin"
+            },
+            "address": {
+              "stringValue": "5706 Ebner Cir"
+            },
+            "phoneNorm": {
+              "stringValue": "8189324259"
+            },
+            "firstName": {
+              "stringValue": "Jitendra"
+            },
+            "zip": {
+              "stringValue": "43016"
+            },
+            "phone": {
+              "stringValue": "8189324259"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "email": {
+              "stringValue": "jjangid002@gmail.com"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "jjangid002@gmail.com_1794353484110"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:31:26.912Z"
+      }
+    },
+    "createTime": "2026-11-10T23:31:26.964924Z",
+    "updateTime": "2026-11-10T23:31:26.964924Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/C93y1tQ2JeFhyisQCktV",
+    "fields": {
+      "children": {
+        "nullValue": null
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "firstName": {
+              "stringValue": "Alpa"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "email": {
+              "stringValue": "mananpatel1st@yahoo.com"
+            },
+            "phone": {
+              "stringValue": "(686) 517-6151"
+            },
+            "phoneNorm": {
+              "stringValue": "6865176151"
+            }
+          }
+        }
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "address": {
+              "stringValue": "7257 Goldenrod Court"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "phoneNorm": {
+              "stringValue": "6095176151"
+            },
+            "zip": {
+              "stringValue": "45036"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "city": {
+              "stringValue": "Turtlecreek Township"
+            },
+            "email": {
+              "stringValue": "mananpatel1st@yahoo.com"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "firstName": {
+              "stringValue": "Manan"
+            },
+            "phone": {
+              "stringValue": "6095176151"
+            },
+            "gender": {
+              "stringValue": "M"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-11T01:03:40.253Z"
+      },
+      "registrationId": {
+        "stringValue": "mananpatel1st@yahoo.com_1794359019999"
+      }
+    },
+    "createTime": "2026-11-11T01:03:40.320324Z",
+    "updateTime": "2026-11-11T01:03:40.320324Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/CSCErb7gCC4W3hB1jfWd",
+    "fields": {
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Yug"
+                  },
+                  "lastName": {
+                    "stringValue": "Surti"
+                  },
+                  "gender": {
+                    "stringValue": "M"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "10"
+                        },
+                        "month": {
+                          "stringValue": "05"
+                        },
+                        "year": {
+                          "stringValue": "2009"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": "yuganant1020@gmail.com"
+                  }
+                }
+              }
+            },
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Anant"
+                  },
+                  "lastName": {
+                    "stringValue": "Surti"
+                  },
+                  "gender": {
+                    "stringValue": "M"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "20"
+                        },
+                        "month": {
+                          "stringValue": "06"
+                        },
+                        "year": {
+                          "stringValue": "2017"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": "rinayug@gmail.com"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phone": {
+              "stringValue": "(916) 449-0470"
+            },
+            "phoneNorm": {
+              "stringValue": "9164490470"
+            },
+            "firstName": {
+              "stringValue": "Rinaben"
+            },
+            "email": {
+              "stringValue": "ridhaval2002@yahoo.co.in"
+            },
+            "lastName": {
+              "stringValue": "Surti"
+            }
+          }
+        }
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "address": {
+              "stringValue": "4871 TATERSALL CT"
+            },
+            "firstName": {
+              "stringValue": "Dhavalkumar"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "email": {
+              "stringValue": "rinayug@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "9164490455"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "zip": {
+              "stringValue": "43230"
+            },
+            "lastName": {
+              "stringValue": "Surti"
+            },
+            "city": {
+              "stringValue": "COLUMBUS"
+            },
+            "phone": {
+              "stringValue": "9164490455"
+            },
+            "gender": {
+              "stringValue": "M"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:16:42.929Z"
+      },
+      "registrationId": {
+        "stringValue": "rinayug@gmail.com_1794352602673"
+      }
+    },
+    "createTime": "2026-11-10T23:16:42.986029Z",
+    "updateTime": "2026-11-10T23:16:42.986029Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/CiK7YWL7wEzPkMzY4yYP",
+    "fields": {
+      "registrationId": {
+        "stringValue": "jitendrapatel@hotmail.com_1794350916856"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T22:48:37.418Z"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phoneNorm": {
+              "stringValue": "6149403098"
+            },
+            "phone": {
+              "stringValue": "(614) 940-3098"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "email": {
+              "stringValue": "jitendrapatel@hotmail.com"
+            },
+            "firstName": {
+              "stringValue": "Usha"
+            }
+          }
+        }
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "phone": {
+              "stringValue": "6149403098"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "city": {
+              "stringValue": "Westerville"
+            },
+            "zip": {
+              "stringValue": "43081"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "firstName": {
+              "stringValue": "Jitendra"
+            },
+            "email": {
+              "stringValue": "jitendrapatel@hotmail.com"
+            },
+            "address": {
+              "stringValue": "5992 Deansboro Dr."
+            },
+            "phoneNorm": {
+              "stringValue": "6149403098"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-10T22:48:37.501669Z",
+    "updateTime": "2026-11-10T22:48:37.501669Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/E6B57ya4qIbGLdSjTxdi",
+    "fields": {
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "phone": {
+              "stringValue": "5085708353"
+            },
+            "email": {
+              "stringValue": "rhiapatel1603@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "5085708353"
+            },
+            "city": {
+              "stringValue": "Columbus "
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "firstName": {
+              "stringValue": "Mautik"
+            },
+            "address": {
+              "stringValue": "1522 De Greve Pl "
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "zip": {
+              "stringValue": "43219"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "rhiapatel1603@gmail.com_1794348064794"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T22:01:05.061Z"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "firstName": {
+              "stringValue": "Khyati"
+            },
+            "phone": {
+              "stringValue": "(706) 409-1163"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "email": {
+              "stringValue": "rhiapatel1603@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "7064091163"
+            }
+          }
+        }
+      },
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Riya"
+                  },
+                  "lastName": {
+                    "stringValue": "Patel"
+                  },
+                  "gender": {
+                    "stringValue": "F"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "25"
+                        },
+                        "month": {
+                          "stringValue": "11"
+                        },
+                        "year": {
+                          "stringValue": "2008"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": "rhiapatel1603@gmail.com"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "createTime": "2026-11-10T22:01:05.130820Z",
+    "updateTime": "2026-11-10T22:01:05.130820Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/ESTixhwQMIefz4j4Fl7P",
+    "fields": {
+      "spouse": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T14:50:58.543Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "city": {
+              "stringValue": "Pataskala"
+            },
+            "phone": {
+              "stringValue": "7407841198"
+            },
+            "zip": {
+              "stringValue": "43062"
+            },
+            "address": {
+              "stringValue": "133 Copland Drive"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "phoneNorm": {
+              "stringValue": "7407841198"
+            },
+            "email": {
+              "stringValue": "ishikap2023@gmail.com"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "firstName": {
+              "stringValue": "Ishika"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "registrationId": {
+        "stringValue": "ishikap2023@gmail.com_1794322258255"
+      }
+    },
+    "createTime": "2026-11-10T14:50:58.616888Z",
+    "updateTime": "2026-11-10T14:50:58.616888Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/F04qHtdp0kSjY1XaFvhY",
+    "fields": {
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": ""
+            },
+            "phoneNorm": {
+              "stringValue": "6144032284"
+            },
+            "lastName": {
+              "stringValue": "Gandhi"
+            },
+            "firstName": {
+              "stringValue": "Meena"
+            },
+            "phone": {
+              "stringValue": "(614) 403-2284"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "firstName": {
+              "stringValue": "Bharatkumar v."
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "address": {
+              "stringValue": "8770 Galaxy Wy, 250"
+            },
+            "lastName": {
+              "stringValue": "Gandhi"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "email": {
+              "stringValue": "bharat.meena56@gmail.com"
+            },
+            "zip": {
+              "stringValue": "43240"
+            },
+            "city": {
+              "stringValue": "Columbus"
+            },
+            "phoneNorm": {
+              "stringValue": "6144032284"
+            },
+            "phone": {
+              "stringValue": "6144032284"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "bharat.meena56@gmail.com_1794352576181"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:16:16.456Z"
+      }
+    },
+    "createTime": "2026-11-10T23:16:16.543871Z",
+    "updateTime": "2026-11-10T23:16:16.543871Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/FjE0zq3Gq4LFJ3RsDLeW",
+    "fields": {
+      "submittedAt": {
+        "timestampValue": "2026-11-10T22:25:49.064Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "zip": {
+              "stringValue": "43235"
+            },
+            "city": {
+              "stringValue": "Columbus"
+            },
+            "firstName": {
+              "stringValue": "Sakshi"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "lastName": {
+              "stringValue": "Prajapati"
+            },
+            "phone": {
+              "stringValue": "3026079730"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "phoneNorm": {
+              "stringValue": "3026079730"
+            },
+            "address": {
+              "stringValue": "6643 Brixton Park Ave, Unit 208"
+            },
+            "email": {
+              "stringValue": "prajapatisakshi685@gmail.com"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "registrationId": {
+        "stringValue": "prajapatisakshi685@gmail.com_1794349548750"
+      },
+      "spouse": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-10T22:25:49.121466Z",
+    "updateTime": "2026-11-10T22:25:49.121466Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/FoNRZFmnGVZtNPT1ue7r",
+    "fields": {
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Aarna"
+                  },
+                  "lastName": {
+                    "stringValue": "Jain"
+                  },
+                  "gender": {
+                    "stringValue": "F"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "24"
+                        },
+                        "month": {
+                          "stringValue": "10"
+                        },
+                        "year": {
+                          "stringValue": "2010"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": ""
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "registrationId": {
+        "stringValue": "tovikasjain@gmail.com_1794354126244"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "toaarnajain@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "6144258726"
+            },
+            "lastName": {
+              "stringValue": "Jain"
+            },
+            "firstName": {
+              "stringValue": "Ankita"
+            },
+            "phone": {
+              "stringValue": "(614) 425-8726"
+            }
+          }
+        }
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "city": {
+              "stringValue": "Dublin"
+            },
+            "zip": {
+              "stringValue": "43017"
+            },
+            "phoneNorm": {
+              "stringValue": "6147951628"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "address": {
+              "stringValue": "2986 Green Arbor Ln"
+            },
+            "lastName": {
+              "stringValue": "Jain"
+            },
+            "phone": {
+              "stringValue": "6147951628"
+            },
+            "firstName": {
+              "stringValue": "Vikas"
+            },
+            "email": {
+              "stringValue": "tovikasjain@gmail.com"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:42:06.781Z"
+      }
+    },
+    "createTime": "2026-11-10T23:42:06.860776Z",
+    "updateTime": "2026-11-10T23:42:06.860776Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/FwfwPRwGtEdEQ6wToKOc",
+    "fields": {
+      "children": {
+        "nullValue": null
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phone": {
+              "stringValue": "(603) 205-3705"
+            },
+            "firstName": {
+              "stringValue": "Janki"
+            },
+            "phoneNorm": {
+              "stringValue": "6032053705"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "email": {
+              "stringValue": ""
+            }
+          }
+        }
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "dashp888@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "6032053433"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "address": {
+              "stringValue": "2425 Interstate Circle"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "phone": {
+              "stringValue": "6032053433"
+            },
+            "zip": {
+              "stringValue": "44903"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "city": {
+              "stringValue": "Mansfield"
+            },
+            "firstName": {
+              "stringValue": "Darshan"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "dashp888@gmail.com_1794355280910"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-11T00:01:21.645Z"
+      }
+    },
+    "createTime": "2026-11-11T00:01:21.706217Z",
+    "updateTime": "2026-11-11T00:01:21.706217Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/Gm6opfEtk99BfqjYPKGy",
+    "fields": {
+      "submittedAt": {
+        "timestampValue": "2026-11-10T21:17:13.841Z"
+      },
+      "spouse": {
+        "nullValue": null
+      },
+      "registrationId": {
+        "stringValue": "harnishvdave2010@gmail.com_1794345434335"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "city": {
+              "stringValue": "Dublin"
+            },
+            "phoneNorm": {
+              "stringValue": "9165812125"
+            },
+            "firstName": {
+              "stringValue": "Harnish"
+            },
+            "zip": {
+              "stringValue": "43016"
+            },
+            "phone": {
+              "stringValue": "9165812125"
+            },
+            "lastName": {
+              "stringValue": "Dave"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "address": {
+              "stringValue": "5114 Avery Crest Dr N"
+            },
+            "email": {
+              "stringValue": "harnishvdave2010@gmail.com"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-10T21:17:13.932865Z",
+    "updateTime": "2026-11-10T21:17:13.932865Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/GsIGqNfSNVtrY82dxOJ8",
+    "fields": {
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Hrihan"
+                  },
+                  "lastName": {
+                    "stringValue": "Sampat"
+                  },
+                  "gender": {
+                    "stringValue": "M"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "07"
+                        },
+                        "month": {
+                          "stringValue": "09"
+                        },
+                        "year": {
+                          "stringValue": "2026"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": ""
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "registrationId": {
+        "stringValue": "sampatrahul90@gmail.com_1794352993459"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phoneNorm": {
+              "stringValue": "3415003016"
+            },
+            "phone": {
+              "stringValue": "(341) 500-3016"
+            },
+            "lastName": {
+              "stringValue": "Baxi"
+            },
+            "email": {
+              "stringValue": "dishabaxi1790@gmail.com"
+            },
+            "firstName": {
+              "stringValue": "Dish"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:23:14.796Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "zip": {
+              "stringValue": "43068"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "email": {
+              "stringValue": "sampatrahul90@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "5712657617"
+            },
+            "phone": {
+              "stringValue": "5712657617"
+            },
+            "address": {
+              "stringValue": "786 Capriconus Dr"
+            },
+            "lastName": {
+              "stringValue": "Sampat"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "city": {
+              "stringValue": "Reynoldsburg"
+            },
+            "firstName": {
+              "stringValue": "Rahul"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-10T23:23:14.869114Z",
+    "updateTime": "2026-11-10T23:23:14.869114Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/H7ZNZBCgV4fpJHoWmPHw",
+    "fields": {
+      "submittedAt": {
+        "timestampValue": "2026-02-02T03:13:58.937Z"
+      },
+      "registrationId": {
+        "stringValue": "ankitpraj99@gmail.com_1770002038881"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "firstName": {
+              "stringValue": "Ankit"
+            },
+            "city": {
+              "stringValue": "Dublin "
+            },
+            "lastName": {
+              "stringValue": "Prajapati"
+            },
+            "phone": {
+              "stringValue": "4373601812"
+            },
+            "phoneNorm": {
+              "stringValue": "4373601812"
+            },
+            "email": {
+              "stringValue": "ankitpraj99@gmail.com"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "address": {
+              "stringValue": "Maxx Crossing Road unit D"
+            },
+            "zip": {
+              "stringValue": "43002"
+            }
+          }
+        }
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "ankitpraj99@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "6138971812"
+            },
+            "lastName": {
+              "stringValue": "Prajapati"
+            },
+            "firstName": {
+              "stringValue": "Vidhi"
+            },
+            "phone": {
+              "stringValue": "(613) 897-1812"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-02-02T03:13:58.982948Z",
+    "updateTime": "2026-02-02T03:13:58.982948Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/HNVVc74s9eK8Y2wOXSQN",
+    "fields": {
+      "spouse": {
+        "nullValue": null
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "phoneNorm": {
+              "stringValue": "4696446601"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "email": {
+              "stringValue": "umabhimani05@gmail.com"
+            },
+            "address": {
+              "stringValue": "8350 Falling Water Lane"
+            },
+            "firstName": {
+              "stringValue": "Uma"
+            },
+            "zip": {
+              "stringValue": "43240"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "phone": {
+              "stringValue": "4696446601"
+            },
+            "city": {
+              "stringValue": "Columbus"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "umabhimani05@gmail.com_1794352309195"
+      },
+      "children": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:11:49.441Z"
+      }
+    },
+    "createTime": "2026-11-10T23:11:49.532102Z",
+    "updateTime": "2026-11-10T23:11:49.532102Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/HiCasLVEAJAmizW7rzAZ",
+    "fields": {
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "address": {
+              "stringValue": "1730 Estate Rd"
+            },
+            "zip": {
+              "stringValue": "43064"
+            },
+            "email": {
+              "stringValue": "devpatel.dop@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "6147959033"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "phone": {
+              "stringValue": "6147959033"
+            },
+            "city": {
+              "stringValue": "Plain City"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "firstName": {
+              "stringValue": "Dev"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-08T22:52:23.817Z"
+      },
+      "registrationId": {
+        "stringValue": "devpatel.dop@gmail.com_1794178343538"
+      },
+      "spouse": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-08T22:52:23.889491Z",
+    "updateTime": "2026-11-08T22:52:23.889491Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/IyuU3VusmqU9PtgnDrCc",
+    "fields": {
+      "submittedAt": {
+        "timestampValue": "2026-03-06T16:58:54.495Z"
+      },
+      "updatedAt": {
+        "timestampValue": "2026-03-06T17:45:14.196Z"
+      },
+      "children": {
+        "nullValue": null
+      },
+      "trashRestoreMeta": {
+        "mapValue": {
+          "fields": {
+            "restoreCount": {
+              "integerValue": "1"
+            },
+            "sourceDeletedRecordId": {
+              "stringValue": "8GKMH1fapWBTlmU2npdu"
+            },
+            "sourceOriginalId": {
+              "stringValue": "IyuU3VusmqU9PtgnDrCc"
+            },
+            "restoredAt": {
+              "timestampValue": "2026-03-06T17:45:14.196Z"
+            }
+          }
+        }
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "lastName": {
+              "stringValue": "Barton"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "phone": {
+              "stringValue": "1942965191"
+            },
+            "city": {
+              "stringValue": "Eveniet tempore co"
+            },
+            "zip": {
+              "stringValue": "15211"
+            },
+            "firstName": {
+              "stringValue": "Duncan"
+            },
+            "email": {
+              "stringValue": "fugiatetquisquam@gmail.com"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "state": {
+              "stringValue": "Delaware"
+            },
+            "phoneNorm": {
+              "stringValue": "1942965191"
+            },
+            "address": {
+              "stringValue": "Tempore explicabo "
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "fugiatetquisquam@gmail.com_1772816336389"
+      },
+      "spouse": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-03-06T17:45:14.253405Z",
+    "updateTime": "2026-03-06T17:45:14.253405Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/JFcRFfLCdwvowOP0f1lI",
+    "fields": {
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "phoneNorm": {
+              "stringValue": "4434407242"
+            },
+            "phone": {
+              "stringValue": "(443) 440-7242"
+            },
+            "email": {
+              "stringValue": "jinalpatel2594@gmail.com"
+            },
+            "firstName": {
+              "stringValue": "Saurabh"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "city": {
+              "stringValue": "FINDLAY"
+            },
+            "firstName": {
+              "stringValue": "Jinalben"
+            },
+            "phoneNorm": {
+              "stringValue": "4195753627"
+            },
+            "address": {
+              "stringValue": "2114 Normandy Dr"
+            },
+            "phone": {
+              "stringValue": "4195753627"
+            },
+            "email": {
+              "stringValue": "jinalpatel2594@gmail.com"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "zip": {
+              "stringValue": "45840"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "jinalpatel2594@gmail.com_1794338773309"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T19:26:11.263Z"
+      }
+    },
+    "createTime": "2026-11-10T19:26:11.330756Z",
+    "updateTime": "2026-11-10T19:26:11.330756Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/K51EU0kNHyEGsODfnXWL",
+    "fields": {
+      "registrationId": {
+        "stringValue": "teja1@outlook.com_1794353509182"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "firstName": {
+              "stringValue": "Manjula"
+            },
+            "email": {
+              "stringValue": "teja1@outlook.com"
+            },
+            "phone": {
+              "stringValue": "(312) 509-1373"
+            },
+            "lastName": {
+              "stringValue": "Karpurapu"
+            },
+            "phoneNorm": {
+              "stringValue": "3125091373"
+            }
+          }
+        }
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "phone": {
+              "stringValue": "3125091371"
+            },
+            "city": {
+              "stringValue": "Jefferson Township"
+            },
+            "lastName": {
+              "stringValue": "Nirujogi"
+            },
+            "phoneNorm": {
+              "stringValue": "3125091371"
+            },
+            "zip": {
+              "stringValue": "43004"
+            },
+            "email": {
+              "stringValue": "teja1@outlook.com"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "firstName": {
+              "stringValue": "Teja"
+            },
+            "address": {
+              "stringValue": "7854 Birch Creek Drive"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:31:49.544Z"
+      }
+    },
+    "createTime": "2026-11-10T23:31:49.621224Z",
+    "updateTime": "2026-11-10T23:31:49.621224Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/MZVWabq52h8clucK3e3W",
+    "fields": {
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "firstName": {
+              "stringValue": "Jaya"
+            },
+            "address": {
+              "stringValue": "2776 Abbey Knoll Dr , Lewis Center Ohio - 43035"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "email": {
+              "stringValue": "9satyajaya@gmail.com"
+            },
+            "lastName": {
+              "stringValue": "Yarramsetty"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "zip": {
+              "stringValue": "43035"
+            },
+            "city": {
+              "stringValue": "Lewis center"
+            },
+            "phone": {
+              "stringValue": "7408031484"
+            },
+            "phoneNorm": {
+              "stringValue": "7408031484"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "9satyajaya@gmail.com_1794333995912"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T18:06:36.325Z"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phoneNorm": {
+              "stringValue": "7408011484"
+            },
+            "email": {
+              "stringValue": "yarramj1@nationwide.com"
+            },
+            "phone": {
+              "stringValue": "(740) 801-1484"
+            },
+            "lastName": {
+              "stringValue": "Yarramsetty"
+            },
+            "firstName": {
+              "stringValue": "Satya"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-10T18:06:36.413922Z",
+    "updateTime": "2026-11-10T18:06:36.413922Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/Mq8JlqhjhfvucicMeFPO",
+    "fields": {
+      "children": {
+        "nullValue": null
+      },
+      "registrationId": {
+        "stringValue": "hdm9631@gmail.com_1794355762263"
+      },
+      "spouse": {
+        "nullValue": null
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "lastName": {
+              "stringValue": "Majmudar"
+            },
+            "email": {
+              "stringValue": "hdm9631@gmail.com"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "phone": {
+              "stringValue": "4406810877"
+            },
+            "zip": {
+              "stringValue": "43082"
+            },
+            "phoneNorm": {
+              "stringValue": "4406810877"
+            },
+            "firstName": {
+              "stringValue": "Himanshu"
+            },
+            "city": {
+              "stringValue": "Westerville"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "address": {
+              "stringValue": "5069 Somerset Avenue"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-11T00:09:22.540Z"
+      }
+    },
+    "createTime": "2026-11-11T00:09:22.590154Z",
+    "updateTime": "2026-11-11T00:09:22.590154Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/NBfqJvrLMVz6zncrMChO",
+    "fields": {
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phoneNorm": {
+              "stringValue": "6149731807"
+            },
+            "email": {
+              "stringValue": ""
+            },
+            "phone": {
+              "stringValue": "(614) 973-1807"
+            },
+            "firstName": {
+              "stringValue": "Niraj"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            }
+          }
+        }
+      },
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Ridham"
+                  },
+                  "lastName": {
+                    "stringValue": "Patel"
+                  },
+                  "gender": {
+                    "stringValue": "M"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "01"
+                        },
+                        "month": {
+                          "stringValue": "01"
+                        },
+                        "year": {
+                          "stringValue": "2006"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": ""
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "address": {
+              "stringValue": "8395 Edgemoor Dr W "
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "city": {
+              "stringValue": "Columbus "
+            },
+            "phoneNorm": {
+              "stringValue": "6149731807"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "zip": {
+              "stringValue": "43240"
+            },
+            "firstName": {
+              "stringValue": "Falguni"
+            },
+            "phone": {
+              "stringValue": "6149731807"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "email": {
+              "stringValue": "fnpatel@hotmail.com"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T22:20:01.251Z"
+      },
+      "registrationId": {
+        "stringValue": "fnpatel@hotmail.com_1794349199012"
+      }
+    },
+    "createTime": "2026-11-10T22:20:01.368365Z",
+    "updateTime": "2026-11-10T22:20:01.368365Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/OlMIPJLJf641KJ80C1nY",
+    "fields": {
+      "registrationId": {
+        "stringValue": "codex-test-20261108-02@example.com_1794178782769"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-08T22:59:39.423Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "codex-test-20261108-02@example.com"
+            },
+            "phoneNorm": {
+              "stringValue": "2025550142"
+            },
+            "address": {
+              "stringValue": "TEST ONLY - 456 Example Street"
+            },
+            "lastName": {
+              "stringValue": "Do not use"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "phone": {
+              "stringValue": "2025550142"
+            },
+            "zip": {
+              "stringValue": "43215"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "city": {
+              "stringValue": "Columbus"
+            },
+            "firstName": {
+              "stringValue": "Test two"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "spouse": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-08T22:59:39.484687Z",
+    "updateTime": "2026-11-08T22:59:39.484687Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/PDLKOFybnCS1i42SM0Pg",
+    "fields": {
+      "spouse": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-08T22:58:42.135Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "city": {
+              "stringValue": "Columbus"
+            },
+            "firstName": {
+              "stringValue": "Test one"
+            },
+            "zip": {
+              "stringValue": "43215"
+            },
+            "phone": {
+              "stringValue": "2025550141"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "email": {
+              "stringValue": "codex-test-20261108-01@example.com"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "lastName": {
+              "stringValue": "Do not use"
+            },
+            "address": {
+              "stringValue": "TEST ONLY - 123 Example Street"
+            },
+            "phoneNorm": {
+              "stringValue": "2025550141"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "codex-test-20261108-01@example.com_1794178726131"
+      },
+      "children": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-08T22:58:42.175579Z",
+    "updateTime": "2026-11-08T22:58:42.175579Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/QTZ3dxtlw0ne5Gcqhpi4",
+    "fields": {
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "city": {
+              "stringValue": "Columbus"
+            },
+            "address": {
+              "stringValue": "295 Bluejay Drive"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "zip": {
+              "stringValue": "43235"
+            },
+            "lastName": {
+              "stringValue": "Gupta"
+            },
+            "firstName": {
+              "stringValue": "Ankush"
+            },
+            "phoneNorm": {
+              "stringValue": "6479162254"
+            },
+            "phone": {
+              "stringValue": "6479162254"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "email": {
+              "stringValue": "gupta.ankush311@gmail.com"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T22:44:01.540Z"
+      },
+      "registrationId": {
+        "stringValue": "gupta.ankush311@gmail.com_1794350640830"
+      },
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Anaisha"
+                  },
+                  "lastName": {
+                    "stringValue": "Gupta"
+                  },
+                  "gender": {
+                    "stringValue": "F"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "25"
+                        },
+                        "month": {
+                          "stringValue": "08"
+                        },
+                        "year": {
+                          "stringValue": "2019"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": "gupta.ankush311@gmail.com"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "lastName": {
+              "stringValue": "Garg"
+            },
+            "phoneNorm": {
+              "stringValue": "6479162254"
+            },
+            "email": {
+              "stringValue": "gupta.ankush311@gmail.com"
+            },
+            "phone": {
+              "stringValue": "(647) 916-2254"
+            },
+            "firstName": {
+              "stringValue": "Shefali"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-10T22:44:01.611431Z",
+    "updateTime": "2026-11-10T22:44:01.611431Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/R9o4mV7SyelqOd9pQVVL",
+    "fields": {
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Dilan"
+                  },
+                  "lastName": {
+                    "stringValue": "Patel"
+                  },
+                  "gender": {
+                    "stringValue": "M"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "03"
+                        },
+                        "month": {
+                          "stringValue": "05"
+                        },
+                        "year": {
+                          "stringValue": "2008"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": "pateldilan08@gmail.com"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phoneNorm": {
+              "stringValue": "5084105896"
+            },
+            "email": {
+              "stringValue": "pmanisha1380@gmail.com"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "firstName": {
+              "stringValue": "Manisha"
+            },
+            "phone": {
+              "stringValue": "(508) 410-5896"
+            }
+          }
+        }
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "city": {
+              "stringValue": "Hilliard"
+            },
+            "phone": {
+              "stringValue": "6149731366"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "zip": {
+              "stringValue": "43026"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "firstName": {
+              "stringValue": "Piyush"
+            },
+            "email": {
+              "stringValue": "pateldilan08@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "6149731366"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "address": {
+              "stringValue": "2025 Fragola Drive"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "pateldilan08@gmail.com_1794349805454"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T22:30:06.053Z"
+      }
+    },
+    "createTime": "2026-11-10T22:30:06.117404Z",
+    "updateTime": "2026-11-10T22:30:06.117404Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/RCROp3q0GdmYpzNaeA8F",
+    "fields": {
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "newbeg.vish@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "2246664830"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "lastName": {
+              "stringValue": "Dave"
+            },
+            "phone": {
+              "stringValue": "2246664830"
+            },
+            "address": {
+              "stringValue": "4577 Tuttle's View Drive"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "zip": {
+              "stringValue": "43016"
+            },
+            "firstName": {
+              "stringValue": "Vishrut"
+            },
+            "city": {
+              "stringValue": "Columbus"
+            }
+          }
+        }
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "lastName": {
+              "stringValue": "Dave"
+            },
+            "firstName": {
+              "stringValue": "Nikita"
+            },
+            "email": {
+              "stringValue": ""
+            },
+            "phone": {
+              "stringValue": "(224) 666-4830"
+            },
+            "phoneNorm": {
+              "stringValue": "2246664830"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T22:33:42.021Z"
+      },
+      "registrationId": {
+        "stringValue": "newbeg.vish@gmail.com_1794350017038"
+      },
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Shreeda"
+                  },
+                  "lastName": {
+                    "stringValue": "Dave"
+                  },
+                  "gender": {
+                    "stringValue": "F"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "31"
+                        },
+                        "month": {
+                          "stringValue": "10"
+                        },
+                        "year": {
+                          "stringValue": "2025"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": ""
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "createTime": "2026-11-10T22:33:42.082917Z",
+    "updateTime": "2026-11-10T22:33:42.082917Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/RoIgHZE9W8aD4SRt1S24",
+    "fields": {
+      "registrationId": {
+        "stringValue": "niyatinumber1@yahoo.com_1794353122877"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "address": {
+              "stringValue": "924 Portlock Dr"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "firstName": {
+              "stringValue": "Niyati"
+            },
+            "city": {
+              "stringValue": "Columbus"
+            },
+            "phoneNorm": {
+              "stringValue": "6143539837"
+            },
+            "phone": {
+              "stringValue": "6143539837"
+            },
+            "email": {
+              "stringValue": "niyatinumber1@yahoo.com"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "zip": {
+              "stringValue": "43228"
+            },
+            "lastName": {
+              "stringValue": "Joshi"
+            }
+          }
+        }
+      },
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Agenya"
+                  },
+                  "lastName": {
+                    "stringValue": "Joshi"
+                  },
+                  "gender": {
+                    "stringValue": "M"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "09"
+                        },
+                        "month": {
+                          "stringValue": "02"
+                        },
+                        "year": {
+                          "stringValue": "2025"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": ""
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phoneNorm": {
+              "stringValue": "6143539837"
+            },
+            "phone": {
+              "stringValue": "(614) 353-9837"
+            },
+            "email": {
+              "stringValue": "niyatinumber1@yahoo.com"
+            },
+            "firstName": {
+              "stringValue": "Yash"
+            },
+            "lastName": {
+              "stringValue": "Joshi"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:25:23.343Z"
+      }
+    },
+    "createTime": "2026-11-10T23:25:23.520500Z",
+    "updateTime": "2026-11-10T23:25:23.520500Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/SXqL8W0kUIogqYDisowc",
+    "fields": {
+      "children": {
+        "nullValue": null
+      },
+      "spouse": {
+        "nullValue": null
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "choopiebhat@gmail.com"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "phoneNorm": {
+              "stringValue": "4234292503"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "lastName": {
+              "stringValue": "Bhat"
+            },
+            "address": {
+              "stringValue": "1234 Steelwood Road"
+            },
+            "phone": {
+              "stringValue": "4234292503"
+            },
+            "zip": {
+              "stringValue": "43212"
+            },
+            "firstName": {
+              "stringValue": "Chandni"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "city": {
+              "stringValue": "Columbus"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "choopiebhat@gmail.com_1794354315746"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:45:16.093Z"
+      }
+    },
+    "createTime": "2026-11-10T23:45:16.146510Z",
+    "updateTime": "2026-11-10T23:45:16.146510Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/TAD92LWIiUv6ZY8YRKYr",
+    "fields": {
+      "registrationId": {
+        "stringValue": "anajoshi7@gmail.com_1794351204083"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "firstName": {
+              "stringValue": "Ana"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "city": {
+              "stringValue": "Grove City"
+            },
+            "zip": {
+              "stringValue": "43123"
+            },
+            "lastName": {
+              "stringValue": "Joshi"
+            },
+            "phone": {
+              "stringValue": "9377893268"
+            },
+            "address": {
+              "stringValue": "925 Endres Ct"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "email": {
+              "stringValue": "anajoshi7@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "9377893268"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "lastName": {
+              "stringValue": "Desai"
+            },
+            "phone": {
+              "stringValue": "(612) 469-2270"
+            },
+            "phoneNorm": {
+              "stringValue": "6124692270"
+            },
+            "email": {
+              "stringValue": ""
+            },
+            "firstName": {
+              "stringValue": "Mitul"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T22:53:24.314Z"
+      }
+    },
+    "createTime": "2026-11-10T22:53:24.394556Z",
+    "updateTime": "2026-11-10T22:53:24.394556Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/TCu11RFUbNzbsP31Fqwr",
+    "fields": {
+      "children": {
+        "nullValue": null
+      },
+      "registrationId": {
+        "stringValue": "smitaone@hotmail.com_1794347395210"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T21:49:55.572Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "lastName": {
+              "stringValue": "Shah"
+            },
+            "city": {
+              "stringValue": "Hilliard"
+            },
+            "firstName": {
+              "stringValue": "Ashok"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "address": {
+              "stringValue": "4522 Buckeye Ave South"
+            },
+            "zip": {
+              "stringValue": "43026"
+            },
+            "phoneNorm": {
+              "stringValue": "4403900761"
+            },
+            "phone": {
+              "stringValue": "4403900761"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "email": {
+              "stringValue": "smitaone@hotmail.com"
+            }
+          }
+        }
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": ""
+            },
+            "firstName": {
+              "stringValue": "Smita"
+            },
+            "phone": {
+              "stringValue": "(440) 390-0761"
+            },
+            "phoneNorm": {
+              "stringValue": "4403900761"
+            },
+            "lastName": {
+              "stringValue": "Shah"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-10T21:49:55.626603Z",
+    "updateTime": "2026-11-10T21:49:55.626603Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/U3EpA7DWHkaNpQ1Hrz9Z",
+    "fields": {
+      "registrationId": {
+        "stringValue": "sachinp1610@gmail.com_1794354912049"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:55:12.311Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "phoneNorm": {
+              "stringValue": "9379568434"
+            },
+            "city": {
+              "stringValue": "Lewis Center"
+            },
+            "phone": {
+              "stringValue": "9379568434"
+            },
+            "firstName": {
+              "stringValue": "Sachin"
+            },
+            "email": {
+              "stringValue": "sachinp1610@gmail.com"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "address": {
+              "stringValue": "81 Maple Crest Drive"
+            },
+            "zip": {
+              "stringValue": "43035"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            }
+          }
+        }
+      },
+      "spouse": {
+        "nullValue": null
+      },
+      "children": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-10T23:55:12.368552Z",
+    "updateTime": "2026-11-10T23:55:12.368552Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/VljJiaRYUfYVrqJGAswL",
+    "fields": {
+      "spouse": {
+        "nullValue": null
+      },
+      "children": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T21:35:36.152Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "phoneNorm": {
+              "stringValue": "6145780105"
+            },
+            "city": {
+              "stringValue": "Columbus"
+            },
+            "phone": {
+              "stringValue": "6145780105"
+            },
+            "zip": {
+              "stringValue": "43240"
+            },
+            "address": {
+              "stringValue": "9090 Quantum Square Drive"
+            },
+            "lastName": {
+              "stringValue": "Vithlani"
+            },
+            "email": {
+              "stringValue": "vithlanihinal@gmail.com"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "firstName": {
+              "stringValue": "Hinal"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "vithlanihinal@gmail.com_1794346535780"
+      }
+    },
+    "createTime": "2026-11-10T21:35:36.200555Z",
+    "updateTime": "2026-11-10T21:35:36.200555Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/VlwwCupPdWkgucYxAoM8",
+    "fields": {
+      "spouse": {
+        "nullValue": null
+      },
+      "children": {
+        "nullValue": null
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "trivedidhvani36@gmail.com"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "firstName": {
+              "stringValue": "Dhvani"
+            },
+            "phone": {
+              "stringValue": "2629143919"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "lastName": {
+              "stringValue": "Trivedi"
+            },
+            "phoneNorm": {
+              "stringValue": "2629143919"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "address": {
+              "stringValue": "1428 King Avenue"
+            },
+            "zip": {
+              "stringValue": "43212"
+            },
+            "city": {
+              "stringValue": "Columbus"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "trivedidhvani36@gmail.com_1794354228606"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:43:48.834Z"
+      }
+    },
+    "createTime": "2026-11-10T23:43:48.899057Z",
+    "updateTime": "2026-11-10T23:43:48.899057Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/WVkCFsTd9HkpaqIbEtgZ",
+    "fields": {
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": ""
+            },
+            "lastName": {
+              "stringValue": "Mallory"
+            },
+            "phoneNorm": {
+              "stringValue": "6144778292"
+            },
+            "firstName": {
+              "stringValue": "Jeff"
+            },
+            "phone": {
+              "stringValue": "(614) 477-8292"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T19:55:57.584Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "gender": {
+              "stringValue": "F"
+            },
+            "city": {
+              "stringValue": "Blacklick"
+            },
+            "phone": {
+              "stringValue": "6145177564"
+            },
+            "zip": {
+              "stringValue": "43004"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "firstName": {
+              "stringValue": "Toral"
+            },
+            "lastName": {
+              "stringValue": "Kothari-mallory"
+            },
+            "email": {
+              "stringValue": "toral@twc.com"
+            },
+            "phoneNorm": {
+              "stringValue": "6145177564"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "address": {
+              "stringValue": "1502 Stewart Place"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "toral@twc.com_1794340557383"
+      },
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Devan"
+                  },
+                  "lastName": {
+                    "stringValue": "Mallory"
+                  },
+                  "gender": {
+                    "stringValue": "M"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "08"
+                        },
+                        "month": {
+                          "stringValue": "08"
+                        },
+                        "year": {
+                          "stringValue": "2016"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": ""
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "createTime": "2026-11-10T19:55:57.639844Z",
+    "updateTime": "2026-11-10T19:55:57.639844Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/XdklFCMltYJiZlfb1anQ",
+    "fields": {
+      "registrationId": {
+        "stringValue": "miramadhav@hotmail.com_1794348086395"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "city": {
+              "stringValue": "Lewis Center"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "zip": {
+              "stringValue": "43035"
+            },
+            "phoneNorm": {
+              "stringValue": "6143972049"
+            },
+            "phone": {
+              "stringValue": "6143972049"
+            },
+            "firstName": {
+              "stringValue": "Mira"
+            },
+            "address": {
+              "stringValue": "2124 Parklawn Drive"
+            },
+            "lastName": {
+              "stringValue": "Shah"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "email": {
+              "stringValue": "miramadhav@hotmail.com"
+            }
+          }
+        }
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phone": {
+              "stringValue": "(614) 815-4347"
+            },
+            "firstName": {
+              "stringValue": "Nitin"
+            },
+            "lastName": {
+              "stringValue": "Shah"
+            },
+            "phoneNorm": {
+              "stringValue": "6148154347"
+            },
+            "email": {
+              "stringValue": ""
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T22:01:26.612Z"
+      }
+    },
+    "createTime": "2026-11-10T22:01:26.659925Z",
+    "updateTime": "2026-11-10T22:01:26.659925Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/XidSozYdsDbais5ozliw",
+    "fields": {
+      "registrationId": {
+        "stringValue": "p.a.patel937@outlook.com_1794354906306"
+      },
+      "children": {
+        "nullValue": null
+      },
+      "spouse": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:55:07.075Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "maritalStatus": {
+              "stringValue": "Other"
+            },
+            "email": {
+              "stringValue": "p.a.patel937@outlook.com"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "firstName": {
+              "stringValue": "Poojan"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "phone": {
+              "stringValue": "6209080265"
+            },
+            "zip": {
+              "stringValue": "43212"
+            },
+            "phoneNorm": {
+              "stringValue": "6209080265"
+            },
+            "city": {
+              "stringValue": "Columbus"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "address": {
+              "stringValue": "2424 Aschinger Blvd"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-10T23:55:07.142064Z",
+    "updateTime": "2026-11-10T23:55:07.142064Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/Z0v0RihnKGVBqgRK1yki",
+    "fields": {
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "address": {
+              "stringValue": "528 Pisa Lp"
+            },
+            "city": {
+              "stringValue": "Delaware"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "lastName": {
+              "stringValue": "Raghavula"
+            },
+            "zip": {
+              "stringValue": "43015"
+            },
+            "firstName": {
+              "stringValue": "Praveen"
+            },
+            "phoneNorm": {
+              "stringValue": "6027754332"
+            },
+            "phone": {
+              "stringValue": "6027754332"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "email": {
+              "stringValue": "rpraveen706@gmail.com"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-11T00:41:57.598Z"
+      },
+      "children": {
+        "nullValue": null
+      },
+      "registrationId": {
+        "stringValue": "rpraveen706@gmail.com_1794357717310"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "firstName": {
+              "stringValue": "Sonia"
+            },
+            "phone": {
+              "stringValue": "(518) 366-7776"
+            },
+            "phoneNorm": {
+              "stringValue": "5183667776"
+            },
+            "email": {
+              "stringValue": "soni.pachisia@gmail.com"
+            },
+            "lastName": {
+              "stringValue": "Pachisia"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-11T00:41:57.644525Z",
+    "updateTime": "2026-11-11T00:41:57.644525Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/ZiG0klZMBvptJgLNUeJB",
+    "fields": {
+      "submittedAt": {
+        "timestampValue": "2026-11-10T21:35:29.140Z"
+      },
+      "registrationId": {
+        "stringValue": "bhavnikulkarni@gmail.com_1794346528860"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "bhavnikulkarni@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "4698672490"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "phone": {
+              "stringValue": "4698672490"
+            },
+            "lastName": {
+              "stringValue": "Kulkarni"
+            },
+            "address": {
+              "stringValue": "208 Diverston Way"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "firstName": {
+              "stringValue": "Bhavana"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "zip": {
+              "stringValue": "43015"
+            },
+            "city": {
+              "stringValue": "Delaware"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phone": {
+              "stringValue": "(469) 867-2490"
+            },
+            "firstName": {
+              "stringValue": "Rakesh"
+            },
+            "lastName": {
+              "stringValue": "P"
+            },
+            "email": {
+              "stringValue": ""
+            },
+            "phoneNorm": {
+              "stringValue": "4698672490"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-10T21:35:29.203392Z",
+    "updateTime": "2026-11-10T21:35:29.203392Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/Znt59sIfgbEDHc4nQPay",
+    "fields": {
+      "submittedAt": {
+        "timestampValue": "2026-11-10T19:08:36.195Z"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": ""
+            },
+            "phoneNorm": {
+              "stringValue": "6147567392"
+            },
+            "phone": {
+              "stringValue": "(614) 756-7392"
+            },
+            "lastName": {
+              "stringValue": "Gupta"
+            },
+            "firstName": {
+              "stringValue": "Nitin"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "omgupta.ca@gmail.com_1794337715702"
+      },
+      "children": {
+        "nullValue": null
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "omgupta.ca@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "6147567390"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "phone": {
+              "stringValue": "6147567390"
+            },
+            "address": {
+              "stringValue": "4242 Clayton Court"
+            },
+            "zip": {
+              "stringValue": "43016"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "lastName": {
+              "stringValue": "Gupta"
+            },
+            "city": {
+              "stringValue": "Dublin"
+            },
+            "firstName": {
+              "stringValue": "Om"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-10T19:08:36.253825Z",
+    "updateTime": "2026-11-10T19:08:36.253825Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/d9jfUQt4LHFWCzP6lZua",
+    "fields": {
+      "registrationId": {
+        "stringValue": "urvashigondaliya209@gmail.com_1794357723675"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "phoneNorm": {
+              "stringValue": "6207199089"
+            },
+            "email": {
+              "stringValue": "urvashigondaliya209@gmail.com"
+            },
+            "address": {
+              "stringValue": "7014 Breckton Place"
+            },
+            "firstName": {
+              "stringValue": "Urvashi"
+            },
+            "lastName": {
+              "stringValue": "Gondaliya"
+            },
+            "phone": {
+              "stringValue": "6207199089"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "city": {
+              "stringValue": "Columbus"
+            },
+            "zip": {
+              "stringValue": "43054"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "spouse": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-11T00:42:03.971Z"
+      }
+    },
+    "createTime": "2026-11-11T00:42:04.032981Z",
+    "updateTime": "2026-11-11T00:42:04.032981Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/dA7R3VfAi3lyRhAt0hTM",
+    "fields": {
+      "registrationId": {
+        "stringValue": "vivekpatel.vsp@gmail.com_1794173489267"
+      },
+      "spouse": {
+        "nullValue": null
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "gender": {
+              "stringValue": "M"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "phone": {
+              "stringValue": "3062162472"
+            },
+            "city": {
+              "stringValue": "Columbus"
+            },
+            "email": {
+              "stringValue": "vivekpatel.vsp@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "3062162472"
+            },
+            "firstName": {
+              "stringValue": "Vivek"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "zip": {
+              "stringValue": "43035"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "address": {
+              "stringValue": "736 Sanville Drive"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-08T21:31:29.422Z"
+      },
+      "children": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-08T21:31:29.481793Z",
+    "updateTime": "2026-11-08T21:31:29.481793Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/dy7OYwcl0LaiMrG9rHGK",
+    "fields": {
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "bjshah1115@yahoo.com"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "phone": {
+              "stringValue": "7049892027"
+            },
+            "firstName": {
+              "stringValue": "Bharti"
+            },
+            "phoneNorm": {
+              "stringValue": "7049892027"
+            },
+            "zip": {
+              "stringValue": "43065"
+            },
+            "lastName": {
+              "stringValue": "Shah"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "city": {
+              "stringValue": "Liberty Township"
+            },
+            "address": {
+              "stringValue": "3031 Sinatra Way"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T20:30:05.985Z"
+      },
+      "registrationId": {
+        "stringValue": "bjshah1115@yahoo.com_1794342605701"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": ""
+            },
+            "lastName": {
+              "stringValue": "Shah"
+            },
+            "phoneNorm": {
+              "stringValue": "7042814225"
+            },
+            "firstName": {
+              "stringValue": "Jagdish"
+            },
+            "phone": {
+              "stringValue": "(704) 281-4225"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-10T20:30:06.050816Z",
+    "updateTime": "2026-11-10T20:30:06.050816Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/fvPocSvcImyAblrhDHlo",
+    "fields": {
+      "submittedAt": {
+        "timestampValue": "2026-03-01T21:56:24.553Z"
+      },
+      "updatedAt": {
+        "timestampValue": "2026-03-15T15:32:59.904Z"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "none@none.com"
+            },
+            "firstName": {
+              "stringValue": "Dhruvi"
+            },
+            "phone": {
+              "stringValue": "3372403830"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "notes": {
+        "stringValue": "Create Seperate family. Bipin is father of Harshit. Harshit is Roshan's brother-in-law "
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "address": {
+              "stringValue": "1549 Gateway Lakes Drive"
+            },
+            "zip": {
+              "stringValue": "43123"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "city": {
+              "stringValue": "Grove City"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "firstName": {
+              "stringValue": "Harsiddh"
+            },
+            "email": {
+              "stringValue": "harshiddhpatel@yahoo.com"
+            },
+            "phone": {
+              "stringValue": "3372403830"
+            },
+            "gender": {
+              "stringValue": "M"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "harshiddhpatel@yahoo.com_1772402184307"
+      }
+    },
+    "createTime": "2026-03-01T21:56:24.616870Z",
+    "updateTime": "2026-03-15T15:32:59.950403Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/gW9jpBwmPJghbPEMlpBu",
+    "fields": {
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "firstName": {
+              "stringValue": "Mansi"
+            },
+            "lastName": {
+              "stringValue": "Panchal"
+            },
+            "phone": {
+              "stringValue": "(614) 381-8130"
+            },
+            "email": {
+              "stringValue": "mpanchal834@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "6143818130"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "zip": {
+              "stringValue": "43016"
+            },
+            "city": {
+              "stringValue": "Dublin"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "lastName": {
+              "stringValue": "Panchal"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "phoneNorm": {
+              "stringValue": "6812030079"
+            },
+            "firstName": {
+              "stringValue": "Jay"
+            },
+            "phone": {
+              "stringValue": "6812030079"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "address": {
+              "stringValue": "5437 Briardale Lane, Apt C"
+            },
+            "email": {
+              "stringValue": "panchaljay4668@gmail.com"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:59:18.788Z"
+      },
+      "registrationId": {
+        "stringValue": "panchaljay4668@gmail.com_1794355158021"
+      }
+    },
+    "createTime": "2026-11-10T23:59:18.849862Z",
+    "updateTime": "2026-11-10T23:59:18.849862Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/gjfVtCkj8u94WBSamVWc",
+    "fields": {
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Shiny"
+                  },
+                  "lastName": {
+                    "stringValue": "Patel"
+                  },
+                  "gender": {
+                    "stringValue": "F"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "17"
+                        },
+                        "month": {
+                          "stringValue": "12-Dec"
+                        },
+                        "year": {
+                          "stringValue": "2013"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": ""
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "email": {
+              "stringValue": "aa@aa.com"
+            },
+            "phone": {
+              "stringValue": "5082129945"
+            },
+            "firstName": {
+              "stringValue": "Khushi"
+            }
+          }
+        }
+      },
+      "updatedAt": {
+        "timestampValue": "2026-05-22T23:02:37.923Z"
+      },
+      "notes": {
+        "stringValue": "2132620 - Phone exist. need to delete one record which shows in St. Louis. Requested to delete."
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "phone": {
+              "stringValue": "5088403430"
+            },
+            "email": {
+              "stringValue": "brijeshp007@gmail.com"
+            },
+            "city": {
+              "stringValue": "Van Wert"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "address": {
+              "stringValue": "1166 Professional Drive"
+            },
+            "zip": {
+              "stringValue": "45891"
+            },
+            "firstName": {
+              "stringValue": "Brijesh"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "brijeshp007@gmail.com_1770002015107"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-02-02T03:13:35.593Z"
+      }
+    },
+    "createTime": "2026-02-02T03:13:35.630430Z",
+    "updateTime": "2026-05-22T23:02:38.002168Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/irxcOQtwpYXEJ496v5YN",
+    "fields": {
+      "submittedAt": {
+        "timestampValue": "2026-11-11T00:52:19.551Z"
+      },
+      "children": {
+        "nullValue": null
+      },
+      "spouse": {
+        "nullValue": null
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "vrparikh527@icloud.com"
+            },
+            "maritalStatus": {
+              "stringValue": "Other"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "phone": {
+              "stringValue": "9017862792"
+            },
+            "phoneNorm": {
+              "stringValue": "9017862792"
+            },
+            "firstName": {
+              "stringValue": "Nirmala"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "zip": {
+              "stringValue": "43035"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "city": {
+              "stringValue": "Orange Township"
+            },
+            "address": {
+              "stringValue": "8005 Crescent Drive"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "vrparikh527@icloud.com_1794358339300"
+      }
+    },
+    "createTime": "2026-11-11T00:52:19.610731Z",
+    "updateTime": "2026-11-11T00:52:19.610731Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/ixzomql6mCaPrTEKPzNv",
+    "fields": {
+      "children": {
+        "nullValue": null
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phone": {
+              "stringValue": "(216) 647-1523"
+            },
+            "firstName": {
+              "stringValue": "Amit"
+            },
+            "lastName": {
+              "stringValue": "Majmudar"
+            },
+            "email": {
+              "stringValue": ""
+            },
+            "phoneNorm": {
+              "stringValue": "2166471523"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "ami.majmudar@gmail.com_1794355690204"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-11T00:08:10.563Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "lastName": {
+              "stringValue": "Majmudar"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "city": {
+              "stringValue": "Westerville"
+            },
+            "firstName": {
+              "stringValue": "Ami"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "zip": {
+              "stringValue": "43082"
+            },
+            "phoneNorm": {
+              "stringValue": "2166471523"
+            },
+            "phone": {
+              "stringValue": "2166471523"
+            },
+            "email": {
+              "stringValue": "ami.majmudar@gmail.com"
+            },
+            "address": {
+              "stringValue": "5157 Somerset Avenue"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-11T00:08:10.624918Z",
+    "updateTime": "2026-11-11T00:08:10.624918Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/krNwfbu4XcNEZzqmn0vs",
+    "fields": {
+      "submittedAt": {
+        "timestampValue": "2026-11-10T14:52:48.689Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "address": {
+              "stringValue": "133 Copland Dr"
+            },
+            "city": {
+              "stringValue": "Etna"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "zip": {
+              "stringValue": "43062"
+            },
+            "firstName": {
+              "stringValue": "Tanya"
+            },
+            "phone": {
+              "stringValue": "7407841819"
+            },
+            "phoneNorm": {
+              "stringValue": "7407841819"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "email": {
+              "stringValue": "tanyasmarty2012@gmail.com"
+            }
+          }
+        }
+      },
+      "spouse": {
+        "nullValue": null
+      },
+      "registrationId": {
+        "stringValue": "tanyasmarty2012@gmail.com_1794322368280"
+      },
+      "children": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-10T14:52:48.759585Z",
+    "updateTime": "2026-11-10T14:52:48.759585Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/mob4rtysVjli11txrXpa",
+    "fields": {
+      "registrationId": {
+        "stringValue": "bproy.siu@gmai.com_1794352284083"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "lastName": {
+              "stringValue": "Roy"
+            },
+            "email": {
+              "stringValue": "bproy.siu@gmai.com"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "phone": {
+              "stringValue": "9297099564"
+            },
+            "zip": {
+              "stringValue": "43202"
+            },
+            "phoneNorm": {
+              "stringValue": "9297099564"
+            },
+            "address": {
+              "stringValue": "3040 Saint John Court"
+            },
+            "firstName": {
+              "stringValue": "Bishnu"
+            },
+            "city": {
+              "stringValue": "Columbus"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            }
+          }
+        }
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phoneNorm": {
+              "stringValue": "9297099564"
+            },
+            "phone": {
+              "stringValue": "(929) 709-9564"
+            },
+            "lastName": {
+              "stringValue": "Roy"
+            },
+            "firstName": {
+              "stringValue": "Laxmi"
+            },
+            "email": {
+              "stringValue": ""
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:11:24.084Z"
+      }
+    },
+    "createTime": "2026-11-10T23:11:24.146966Z",
+    "updateTime": "2026-11-10T23:11:24.146966Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/prkHcXJNJAV4xWRvU4vz",
+    "fields": {
+      "registrationId": {
+        "stringValue": "hkap1994@gmail.com_1794351683969"
+      },
+      "children": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:01:25.226Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "address": {
+              "stringValue": "109 Ashton Village Dr Apt 206"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "city": {
+              "stringValue": "Westerville "
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "zip": {
+              "stringValue": "43082"
+            },
+            "phoneNorm": {
+              "stringValue": "8574170300"
+            },
+            "phone": {
+              "stringValue": "8574170300"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "firstName": {
+              "stringValue": "Hirenkumar"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "email": {
+              "stringValue": "hkap1994@gmail.com"
+            }
+          }
+        }
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phone": {
+              "stringValue": "(781) 363-0818"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "phoneNorm": {
+              "stringValue": "7813630818"
+            },
+            "firstName": {
+              "stringValue": "Vishvaben"
+            },
+            "email": {
+              "stringValue": ""
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-10T23:01:25.288631Z",
+    "updateTime": "2026-11-10T23:01:25.288631Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/re9V2CkPaJmL5AciC5MN",
+    "fields": {
+      "registrationId": {
+        "stringValue": "pannashingala23@gmail.com_1794353233812"
+      },
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Komal"
+                  },
+                  "lastName": {
+                    "stringValue": "Shingala"
+                  },
+                  "gender": {
+                    "stringValue": "F"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "19"
+                        },
+                        "month": {
+                          "stringValue": "03"
+                        },
+                        "year": {
+                          "stringValue": "2006"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": "komishingala19@gmail.com"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "phoneNorm": {
+              "stringValue": "6143560049"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "address": {
+              "stringValue": "7584 stone Lake Dr"
+            },
+            "email": {
+              "stringValue": "pannashingala23@gmail.com"
+            },
+            "lastName": {
+              "stringValue": "Shingala"
+            },
+            "phone": {
+              "stringValue": "6143560049"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "zip": {
+              "stringValue": "43016"
+            },
+            "firstName": {
+              "stringValue": "Panna"
+            },
+            "city": {
+              "stringValue": "Dublin"
+            }
+          }
+        }
+      },
+      "spouse": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:27:14.762Z"
+      }
+    },
+    "createTime": "2026-11-10T23:27:14.817666Z",
+    "updateTime": "2026-11-10T23:27:14.817666Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/sA63Mm4Qjp1j4YIgyjyS",
+    "fields": {
+      "registrationId": {
+        "stringValue": "umattupalli@gmail.com_1794333967866"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "phoneNorm": {
+              "stringValue": "6147873799"
+            },
+            "address": {
+              "stringValue": "7726 Kelly Drive"
+            },
+            "email": {
+              "stringValue": "umattupalli@gmail.com"
+            },
+            "phone": {
+              "stringValue": "6147873799"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "zip": {
+              "stringValue": "43016"
+            },
+            "city": {
+              "stringValue": "Dublin"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "lastName": {
+              "stringValue": "Mattupalli"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "firstName": {
+              "stringValue": "Usha"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T18:06:08.267Z"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "firstName": {
+              "stringValue": "Murali"
+            },
+            "phone": {
+              "stringValue": "(614) 787-3799"
+            },
+            "email": {
+              "stringValue": "umattupalli@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "6147873799"
+            },
+            "lastName": {
+              "stringValue": "Jallipalli"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-10T18:06:08.360340Z",
+    "updateTime": "2026-11-10T18:06:08.360340Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/svD16mIdqcPOvEVOoy85",
+    "fields": {
+      "registrationId": {
+        "stringValue": "scdusane@gmail.com_1794170834243"
+      },
+      "children": {
+        "nullValue": null
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "scdusane@gmail.com"
+            },
+            "firstName": {
+              "stringValue": "Swapnil"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "phone": {
+              "stringValue": "9799857017"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "address": {
+              "stringValue": "400 East Campus View Boulevard"
+            },
+            "lastName": {
+              "stringValue": "Dusane"
+            },
+            "zip": {
+              "stringValue": "43235"
+            },
+            "phoneNorm": {
+              "stringValue": "9799857017"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "city": {
+              "stringValue": "Columbus"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-08T20:47:14.558Z"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phoneNorm": {
+              "stringValue": "2104739708"
+            },
+            "phone": {
+              "stringValue": "(210) 473-9708"
+            },
+            "email": {
+              "stringValue": "meghaahirrao11@gmail.com"
+            },
+            "firstName": {
+              "stringValue": "Megha"
+            },
+            "lastName": {
+              "stringValue": "Ahirrao"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-08T20:47:14.634370Z",
+    "updateTime": "2026-11-08T20:47:14.634370Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/tb8VPNpurCQ15X4RVHvZ",
+    "fields": {
+      "children": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:50:40.014Z"
+      },
+      "registrationId": {
+        "stringValue": "banshriii7211@gmail.com_1794354639697"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "firstName": {
+              "stringValue": "Rupen"
+            },
+            "email": {
+              "stringValue": "rupatel978@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "3473930442"
+            },
+            "phone": {
+              "stringValue": "(347) 393-0442"
+            }
+          }
+        }
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "address": {
+              "stringValue": "578 W Marion Rd"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "phoneNorm": {
+              "stringValue": "5672316915"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "email": {
+              "stringValue": "banshriii7211@gmail.com"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "firstName": {
+              "stringValue": "Banshri"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "phone": {
+              "stringValue": "5672316915"
+            },
+            "zip": {
+              "stringValue": "43338"
+            },
+            "city": {
+              "stringValue": "Mount Gilead"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-10T23:50:40.075298Z",
+    "updateTime": "2026-11-10T23:50:40.075298Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/uIxIxdqF9JP2Tvgr2rWL",
+    "fields": {
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phoneNorm": {
+              "stringValue": "4403823190"
+            },
+            "phone": {
+              "stringValue": "(440) 382-3190"
+            },
+            "email": {
+              "stringValue": "aditi_prakash@hotmail.com"
+            },
+            "firstName": {
+              "stringValue": "Aditi"
+            },
+            "lastName": {
+              "stringValue": "Prakash"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "prakash_divya@hotmail.com_1794354851036"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:54:11.401Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "phone": {
+              "stringValue": "4407894421"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "lastName": {
+              "stringValue": "Prakash"
+            },
+            "city": {
+              "stringValue": "Genoa Township"
+            },
+            "zip": {
+              "stringValue": "43082"
+            },
+            "firstName": {
+              "stringValue": "Divya"
+            },
+            "email": {
+              "stringValue": "prakash_divya@hotmail.com"
+            },
+            "address": {
+              "stringValue": "6424 Meadow Glen Drive North"
+            },
+            "phoneNorm": {
+              "stringValue": "4407894421"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-10T23:54:11.465114Z",
+    "updateTime": "2026-11-10T23:54:11.465114Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/uvZCmnbTkSjE4PbywUjp",
+    "fields": {
+      "registrationId": {
+        "stringValue": "shiroyapriyank@gmail.com_1794346634605"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T21:37:13.378Z"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "lastName": {
+              "stringValue": "Shiroya"
+            },
+            "email": {
+              "stringValue": "shiroyapriyank@gmail.com"
+            },
+            "zip": {
+              "stringValue": "43081"
+            },
+            "phone": {
+              "stringValue": "7048913489"
+            },
+            "firstName": {
+              "stringValue": "Priyank"
+            },
+            "phoneNorm": {
+              "stringValue": "7048913489"
+            },
+            "city": {
+              "stringValue": "Westerville "
+            },
+            "address": {
+              "stringValue": "6147 Langhorn Drive"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            }
+          }
+        }
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": ""
+            },
+            "firstName": {
+              "stringValue": "Saloni"
+            },
+            "lastName": {
+              "stringValue": "Prajapati"
+            },
+            "phoneNorm": {
+              "stringValue": "7048913489"
+            },
+            "phone": {
+              "stringValue": "(704) 891-3489"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-10T21:37:13.459073Z",
+    "updateTime": "2026-11-10T21:37:13.459073Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/vyC9XTtK88L3wZHtaNhb",
+    "fields": {
+      "children": {
+        "nullValue": null
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "address": {
+              "stringValue": "737 Independence Avenue"
+            },
+            "city": {
+              "stringValue": "Fostoria"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "zip": {
+              "stringValue": "44830"
+            },
+            "phoneNorm": {
+              "stringValue": "5132377487"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "phone": {
+              "stringValue": "5132377487"
+            },
+            "firstName": {
+              "stringValue": "Shailesh"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "email": {
+              "stringValue": "riyupatel1008@gmqil.com"
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T19:27:09.779Z"
+      },
+      "registrationId": {
+        "stringValue": "riyupatel1008@gmqil.com_1794338829412"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phone": {
+              "stringValue": "(513) 237-7487"
+            },
+            "firstName": {
+              "stringValue": "Sangita"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "email": {
+              "stringValue": "riyupatel1008@gmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "5132377487"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-10T19:27:09.848642Z",
+    "updateTime": "2026-11-10T19:27:09.848642Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/wKZjt6ZUpU9faAbGtBtd",
+    "fields": {
+      "submittedAt": {
+        "timestampValue": "2026-11-10T22:36:08.078Z"
+      },
+      "registrationId": {
+        "stringValue": "kparikhceh@gmail.com_1794350167783"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "city": {
+              "stringValue": "Parma"
+            },
+            "lastName": {
+              "stringValue": "Parikh"
+            },
+            "zip": {
+              "stringValue": "44129"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "firstName": {
+              "stringValue": "Leena"
+            },
+            "phoneNorm": {
+              "stringValue": "4408291686"
+            },
+            "phone": {
+              "stringValue": "4408291686"
+            },
+            "address": {
+              "stringValue": "8107 Snow Road"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "maritalStatus": {
+              "stringValue": "Other"
+            },
+            "email": {
+              "stringValue": "kparikhceh@gmail.com"
+            }
+          }
+        }
+      },
+      "children": {
+        "nullValue": null
+      },
+      "spouse": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-10T22:36:08.142751Z",
+    "updateTime": "2026-11-10T22:36:08.142751Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/x0hDi4RH79r6kXuVVEfO",
+    "fields": {
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "lastName": {
+              "stringValue": "Sedha"
+            },
+            "firstName": {
+              "stringValue": "Neesha"
+            },
+            "phone": {
+              "stringValue": "(614) 476-4301"
+            },
+            "email": {
+              "stringValue": "romeshsedha@hotmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "6144764301"
+            }
+          }
+        }
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "address": {
+              "stringValue": "7853 pateo pass dr"
+            },
+            "phoneNorm": {
+              "stringValue": "6144764301"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "email": {
+              "stringValue": "romeshsedha@hotmail.com"
+            },
+            "firstName": {
+              "stringValue": "Romesh"
+            },
+            "zip": {
+              "stringValue": "43004"
+            },
+            "phone": {
+              "stringValue": "6144764301"
+            },
+            "city": {
+              "stringValue": "Blacklick"
+            },
+            "lastName": {
+              "stringValue": "Sedha"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "romeshsedha@hotmail.com_1794347079104"
+      },
+      "children": {
+        "nullValue": null
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T21:44:39.341Z"
+      }
+    },
+    "createTime": "2026-11-10T21:44:39.409616Z",
+    "updateTime": "2026-11-10T21:44:39.409616Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/xBdZ2m5BksXU17H7sArj",
+    "fields": {
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "vinayp04@yahoo.com"
+            },
+            "gender": {
+              "stringValue": "M"
+            },
+            "firstName": {
+              "stringValue": "Vinay"
+            },
+            "address": {
+              "stringValue": "211 Lake Cove Drive"
+            },
+            "lastName": {
+              "stringValue": "Sharma"
+            },
+            "phone": {
+              "stringValue": "9494360545"
+            },
+            "zip": {
+              "stringValue": "43015"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "city": {
+              "stringValue": "Delaware"
+            },
+            "phoneNorm": {
+              "stringValue": "9494360545"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "vinayp04@yahoo.com_1794345737915"
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T21:22:18.185Z"
+      },
+      "children": {
+        "nullValue": null
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "firstName": {
+              "stringValue": "Sapna"
+            },
+            "email": {
+              "stringValue": ""
+            },
+            "lastName": {
+              "stringValue": "Sharma"
+            },
+            "phone": {
+              "stringValue": "(949) 436-0545"
+            },
+            "phoneNorm": {
+              "stringValue": "9494360545"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-10T21:22:18.239958Z",
+    "updateTime": "2026-11-10T21:22:18.239958Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/xMTwUrOxZicKpUL1eY2O",
+    "fields": {
+      "submittedAt": {
+        "timestampValue": "2026-11-10T23:45:15.971Z"
+      },
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Pranav"
+                  },
+                  "lastName": {
+                    "stringValue": "Krish"
+                  },
+                  "gender": {
+                    "stringValue": "M"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "25"
+                        },
+                        "month": {
+                          "stringValue": "12"
+                        },
+                        "year": {
+                          "stringValue": "2009"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": ""
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "akilarajaraman@gmail.coml"
+            },
+            "lastName": {
+              "stringValue": "Raja"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "firstName": {
+              "stringValue": "Akila"
+            },
+            "phone": {
+              "stringValue": "6144412928"
+            },
+            "address": {
+              "stringValue": "7919 Crescent Drive"
+            },
+            "zip": {
+              "stringValue": "43035"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "city": {
+              "stringValue": "Orange Township"
+            },
+            "phoneNorm": {
+              "stringValue": "6144412928"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            }
+          }
+        }
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "phone": {
+              "stringValue": "(614) 477-2947"
+            },
+            "phoneNorm": {
+              "stringValue": "6144772947"
+            },
+            "lastName": {
+              "stringValue": "Krishnamurthy"
+            },
+            "firstName": {
+              "stringValue": "Raja"
+            },
+            "email": {
+              "stringValue": ""
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "akilarajaraman@gmail.coml_1794354315000"
+      }
+    },
+    "createTime": "2026-11-10T23:45:16.033265Z",
+    "updateTime": "2026-11-10T23:45:16.033265Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/xuLOp4IKO7e3DjZ7vtxl",
+    "fields": {
+      "children": {
+        "nullValue": null
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "firstName": {
+              "stringValue": "Yamini"
+            },
+            "zip": {
+              "stringValue": "43054"
+            },
+            "email": {
+              "stringValue": "patel.yamini@yahoo.com"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "phone": {
+              "stringValue": "4232279657"
+            },
+            "city": {
+              "stringValue": "New Albany"
+            },
+            "phoneNorm": {
+              "stringValue": "4232279657"
+            },
+            "lastName": {
+              "stringValue": "Patel"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "address": {
+              "stringValue": "6521 Wheatly Road "
+            }
+          }
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-08T21:23:16.519Z"
+      },
+      "registrationId": {
+        "stringValue": "patel.yamini@yahoo.com_1794172996291"
+      },
+      "spouse": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-08T21:23:16.571542Z",
+    "updateTime": "2026-11-08T21:23:16.571542Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/zPkTYkdWCmRakKs8uzrj",
+    "fields": {
+      "children": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "firstName": {
+                    "stringValue": "Mohit"
+                  },
+                  "lastName": {
+                    "stringValue": "Naik"
+                  },
+                  "gender": {
+                    "stringValue": "M"
+                  },
+                  "birthDate": {
+                    "mapValue": {
+                      "fields": {
+                        "day": {
+                          "stringValue": "11"
+                        },
+                        "month": {
+                          "stringValue": "11"
+                        },
+                        "year": {
+                          "stringValue": "2009"
+                        }
+                      }
+                    }
+                  },
+                  "email": {
+                    "stringValue": ""
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "submittedAt": {
+        "timestampValue": "2026-11-10T21:52:58.643Z"
+      },
+      "spouse": {
+        "mapValue": {
+          "fields": {
+            "lastName": {
+              "stringValue": "Naik"
+            },
+            "firstName": {
+              "stringValue": "Vipul"
+            },
+            "phone": {
+              "stringValue": "(614) 558-7223"
+            },
+            "email": {
+              "stringValue": "vipulnaik@hotmail.com"
+            },
+            "phoneNorm": {
+              "stringValue": "6145587223"
+            }
+          }
+        }
+      },
+      "registrationId": {
+        "stringValue": "pratimanaik@hotmail.ca_1794347578105"
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "firstName": {
+              "stringValue": "Pratima"
+            },
+            "phone": {
+              "stringValue": "4164545308"
+            },
+            "city": {
+              "stringValue": "Hilliard "
+            },
+            "email": {
+              "stringValue": "pratimanaik@hotmail.ca"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "lastName": {
+              "stringValue": "Naik"
+            },
+            "maritalStatus": {
+              "stringValue": "Married"
+            },
+            "zip": {
+              "stringValue": "43026"
+            },
+            "address": {
+              "stringValue": "1849 Cavolo Dr"
+            },
+            "phoneNorm": {
+              "stringValue": "4164545308"
+            }
+          }
+        }
+      }
+    },
+    "createTime": "2026-11-10T21:52:58.707254Z",
+    "updateTime": "2026-11-10T21:52:58.707254Z"
+  },
+  {
+    "name": "projects/baps-columbus-registrati-c6700/databases/(default)/documents/registrations/zVulLqDsqLd66o1JNZ3Y",
+    "fields": {
+      "submittedAt": {
+        "timestampValue": "2026-11-08T21:45:49.806Z"
+      },
+      "registrationId": {
+        "stringValue": "ratanpriyarp.sharma@gmail.com_1794174349445"
+      },
+      "children": {
+        "nullValue": null
+      },
+      "primaryMember": {
+        "mapValue": {
+          "fields": {
+            "email": {
+              "stringValue": "ratanpriyarp.sharma@gmail.com"
+            },
+            "firstName": {
+              "stringValue": "Ratanpriya"
+            },
+            "phone": {
+              "stringValue": "8123498310"
+            },
+            "maritalStatus": {
+              "stringValue": "Single"
+            },
+            "address": {
+              "stringValue": "2330 Sawmill Place Boulevard"
+            },
+            "gender": {
+              "stringValue": "F"
+            },
+            "zip": {
+              "stringValue": "43235"
+            },
+            "state": {
+              "stringValue": "Ohio"
+            },
+            "lastName": {
+              "stringValue": "Sharma"
+            },
+            "phoneNorm": {
+              "stringValue": "8123498310"
+            },
+            "city": {
+              "stringValue": "Columbus"
+            }
+          }
+        }
+      },
+      "spouse": {
+        "nullValue": null
+      }
+    },
+    "createTime": "2026-11-08T21:45:49.883405Z",
+    "updateTime": "2026-11-08T21:45:49.883405Z"
+  }
+]
